@@ -1,0 +1,19 @@
+# Ed Donner's course repo: a separate git clone, kept out of this repo
+llm_engineering_default/
+llm-course.md
+
+# API keys and secrets
+.env
+.env/
+
+# Python
+.venv/
+venv/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and OS
+.idea/
+.vscode/
